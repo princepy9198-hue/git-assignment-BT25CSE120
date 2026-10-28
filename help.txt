@@ -1,0 +1,6 @@
+Instructions for menu.sh
+
+Option 1: Greet a user.
+Option 2: Add two integers.
+Option 3: Check whether an integer is even or odd.
+Option 4: Exit the program.
